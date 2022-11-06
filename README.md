@@ -1,2 +1,2 @@
 # userscripts
-Personal collection of scripts because im lazy
+Personal collection of scripts because I'm lazy
