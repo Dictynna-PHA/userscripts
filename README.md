@@ -1,2 +1,2 @@
-# torn-scripts
-Personal collection of scripts for torn mmorpg
+# userscripts
+Personal collection of scripts because im lazy
